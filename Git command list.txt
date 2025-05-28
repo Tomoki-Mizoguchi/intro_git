@@ -1,0 +1,7 @@
+Gitの練習
+基本的なワークフローをまなぶ
+・Git add →ステージングする
+・Git commit　→リモートリポジトリに〇〇
+・Git rm 
+・Git status
+・Git diff
